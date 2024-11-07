@@ -21,8 +21,8 @@ The main body of the models are from [TSLIB](https://github.com/thuml/Time-Serie
 ## Results
 
 The best result is highlighted:
-![image info](./pic/table1.png)
-![image info](./pic/table2.png)
+![image info](./pic/table_1.png)
+![image info](./pic/table_2.png)
 ---
 
 
